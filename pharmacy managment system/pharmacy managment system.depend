@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757494289 source:d:\parth fyit\pharmacy managment system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
